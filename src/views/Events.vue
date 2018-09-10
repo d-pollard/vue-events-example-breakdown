@@ -116,6 +116,9 @@ export default {
 </script>
 
 <style scoped>
+  table {
+    border-collapse: collapse;
+  }
   table, th, td {
     border: 1px solid black;
   }
